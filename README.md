@@ -5,6 +5,6 @@ The Sales in different markets has been analyzed using a Global Superstore Order
 ## Installation Procedure <br/>
 Install R from www.r-project.org <br/>
 Install RStudio www.r-project.org <br/>
-Install and import the package rmarkdown <br/>
+Install and import the package #rmarkdown# <br/>
 
 
